@@ -1,0 +1,7 @@
+1) Diferencia entre fork y clone?
+-Fork: crea una copia del repositorio solo en nuestro repositorio github (permaneciendo este en la nube).
+-clone: crea una copia hacia nuestro dispositivo local de todos los archivos del repositorio copiado. 
+
+2)clonar un repositorio de prueba y realizar una pull quest 
+- ya que no se contaba con el repositorio del ejemplo se clono un repositorio llamodo "tron" desde github
+ 
