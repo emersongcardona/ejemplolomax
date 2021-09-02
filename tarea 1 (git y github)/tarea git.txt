@@ -9,4 +9,6 @@
 
 4) git pull: nos permite actualizar nuestro documento local desde el repositorio remoto, practico para proyectos donde colaboran multiples personas simultaneamente 
    
- 
+  Git revert: permite revertir cambios realizados en el archivo, siendo esta una de las razones por las que se manejan repositorios con memoria de cambios 
+
+  Git merge: fusiona las rama con su rama padre
