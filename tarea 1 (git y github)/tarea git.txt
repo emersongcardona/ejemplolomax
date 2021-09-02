@@ -3,5 +3,10 @@
 -clone: crea una copia hacia nuestro dispositivo local de todos los archivos del repositorio copiado. 
 
 2)clonar un repositorio de prueba y realizar una pull quest 
-- ya que no se contaba con el repositorio del ejemplo se clono un repositorio llamodo "tron" desde github
+- se realizo un fork y luego una clonacion del repositorio del ejemplo para modificarlo y solicitar su modificacion en el directorio original (pull quest)
+
+3) un git stash nos permite almacenar temporalemente el estado de una rama para cambiar a otra sin realizar las operaciones de push y no perder el avance
+
+4) git pull: nos permite actualizar nuestro documento local desde el repositorio remoto, practico para proyectos donde colaboran multiples personas simultaneamente 
+   
  
